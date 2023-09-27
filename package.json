@@ -2,6 +2,7 @@
   "name": "recipes",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://recipes.github.io/recipes",
   "dependencies": {
     "@splidejs/react-splide": "^0.7.12",
     "@testing-library/jest-dom": "^5.17.0",
